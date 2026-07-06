@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallery</title>
+  <link rel="stylesheet" href="gallery.css">
+</head>
+<body>
+  
+<a href="People.html">People</a><
+<a href="Nature.html">Nature</a>
+<a href="Animals.html">Animals</a>
+<a href="Nude.html">Nude</a>
+  
+  <div class="gallery">
+
+
+    
+
+  <div class="img-wrap"><img src="imagespeople/photo1.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo4.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo25.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo67.jpg"><span class="watermark">ANDVARIUS</span></div>
+   <div class="img-wrap"><img src="imagespeople/02744.jpg"><span class="watermark">ANDVARIUS</span></div>  
+   <div class="img-wrap"><img src="imagespeople/02859.jpg"><span class="watermark">ANDVARIUS</span></div>  
+   <div class="img-wrap"><img src="imagespeople/02222.jpg"><span class="watermark">ANDVARIUS</span></div>  
+   <div class="img-wrap"><img src="imagespeople/02455.jpg"><span class="watermark">ANDVARIUS</span></div>  
+   <div class="img-wrap"><img src="imagespeople/02469-2.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/photo7.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo10.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo13.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo16.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo19.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo22.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo28.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo31.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/03170-Enhanced-NR.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02888.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02728.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/photo34.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo37.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo40.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo43.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/02876.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo46.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo49.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo52.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo55.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo58.jpg"><span class="watermark">ANDVARIUS</span></div>
+  
+  <div class="img-wrap"><img src="imagespeople/photo64.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo70.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo73.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo76.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo79.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo82.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo85.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo88.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo91.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo94.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo97.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo100.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo103.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo106.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo109.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo112.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo115.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo118.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo121.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo124.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/photo127.jpg"><span class="watermark">ANDVARIUS</span></div>
+
+
+
+
+    
+
+ <div class="img-wrap"><img src="imagespeople/photo2.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo5.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo26.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo68.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/02715.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/02860.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02348.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/03065.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02917-2.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/photo8.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo11.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo14.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo17.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo20.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo23.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo29.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo32.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/03181-Enhanced-NR.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/02832.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/02852-2.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/photo35.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo38.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo41.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo44.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/02869.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo47.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo50.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo53.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo56.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo59.jpg"> <span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo65.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo71.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo74.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo77.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo80.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo83.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo86.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo89.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo92.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo95.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo98.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo101.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo104.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo107.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo110.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo113.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo116.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo119.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo122.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo125.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo128.jpg"><span class="watermark">ANDVARIUS</span></div>
+
+
+
+ <div class="img-wrap"><img src="imagespeople/photo3.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo6.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo27.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo69.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/02717.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/02866.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/02377.jpg"><span class="watermark">ANDVARIUS</span></div>  
+<div class="img-wrap"><img src="imagespeople/03151.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/02669.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/photo9.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo12.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo15.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo18.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo21.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo24.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo30.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo33.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/02818.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02827.jpg"><span class="watermark">ANDVARIUS</span></div>  
+  <div class="img-wrap"><img src="imagespeople/02907.jpg"><span class="watermark">ANDVARIUS</span></div>  
+ <div class="img-wrap"><img src="imagespeople/photo36.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo39.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo42.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo45.jpg"><span class="watermark">ANDVARIUS</span></div>
+  <div class="img-wrap"><img src="imagespeople/02804.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo48.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo51.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo54.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo57.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo60.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo66.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo72.jpg"> <span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo75.jpg"> <span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo78.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo81.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo84.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo87.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo90.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo93.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo96.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo99.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo102.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo105.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo108.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo111.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo114.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo117.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo120.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo123.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo126.jpg"><span class="watermark">ANDVARIUS</span></div>
+ <div class="img-wrap"><img src="imagespeople/photo129.jpg"><span class="watermark">ANDVARIUS</span></div>
+
+
+  </div>
+
+</body>
+</html>
