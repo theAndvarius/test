@@ -18,15 +18,16 @@ body {
   margin-bottom: 50px;
 }
 
-/* === CENTRIRANI GALLERY === */
+/* Glavna galerija - bolje centriranje */
 .gallery {
   max-width: 1600px;
-  margin: 0 auto;           /* ovo centrira galeriju */
+  margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   gap: 25px;
-  padding: 20px;
-  justify-content: center;   /* dodatno centriranje */
+  padding: 0 20px;           /* simetrični padding */
+  justify-content: center;
+  align-content: start;
 }
 
 /* Slike */
@@ -34,8 +35,8 @@ body {
   position: relative;
   border-radius: 10px;
   overflow: hidden;
-  margin: 0 auto;           /* centriranje svake slike */
   max-width: 100%;
+  margin: 0 auto;
 }
 
 .img-wrap img {
@@ -43,48 +44,45 @@ body {
   height: auto;
   display: block;
   border-radius: 10px;
-  pointer-events: none;
-  user-select: none;
+  object-fit: cover;
 }
 
 /* Watermark */
 .watermark {
   position: absolute;
-  bottom: 10px;
+  bottom: 12px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 48px;
+  font-size: 42px;
   font-weight: bold;
-  letter-spacing: 6px;
+  letter-spacing: 5px;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.12);
   pointer-events: none;
-  width: 100%;
   text-align: center;
+  width: 100%;
 }
 
 /* Responsive */
 @media (max-width: 1200px) {
   .gallery {
     grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 20px;
+    padding: 0 15px;
   }
 }
 
 @media (max-width: 768px) {
   .gallery {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 18px;
+    padding: 0 10px;
   }
 }
 
 @media (max-width: 600px) {
   .gallery {
     grid-template-columns: 1fr;
-    gap: 15px;
-    padding: 10px;
+    padding: 0 5px;
   }
-  
   body {
     padding: 20px 10px;
   }
@@ -110,9 +108,4 @@ body {
 
 .title:hover {
   color: #c9a46b;
-}
-
-.title.active {
-  color: #c9a46b;
-  border-bottom: 3px solid #c9a46b;
 }
