@@ -37,6 +37,15 @@ body {
 
 .img-wrap img {
   width: 100%;
+  height: 100%;           /* novo */
+  min-height: 420px;      /* novo */
+  object-fit: cover;      /* ovo je najvažnije */
+  display: block;
+  border-radius: 10px;
+}
+
+.img-wrap img {
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 10px;
