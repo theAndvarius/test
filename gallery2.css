@@ -8,7 +8,7 @@ body {
   background: #000;
   color: #fff;
   font-family: Arial, sans-serif;
-  padding: 40px;
+  padding: 40px 20px;
 }
 
 /* Naslov */
@@ -18,14 +18,15 @@ body {
   margin-bottom: 50px;
 }
 
-/* === GLAVNI GALLERY - GRID (najbolje za puno slika) === */
+/* === CENTRIRANI GALLERY === */
 .gallery {
   max-width: 1600px;
-  margin: 0 auto;
+  margin: 0 auto;           /* ovo centrira galeriju */
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
   gap: 25px;
   padding: 20px;
+  justify-content: center;   /* dodatno centriranje */
 }
 
 /* Slike */
@@ -33,6 +34,8 @@ body {
   position: relative;
   border-radius: 10px;
   overflow: hidden;
+  margin: 0 auto;           /* centriranje svake slike */
+  max-width: 100%;
 }
 
 .img-wrap img {
@@ -42,7 +45,6 @@ body {
   border-radius: 10px;
   pointer-events: none;
   user-select: none;
-  -webkit-user-drag: none;
 }
 
 /* Watermark */
@@ -57,29 +59,34 @@ body {
   text-transform: uppercase;
   color: rgba(255,255,255,0.10);
   pointer-events: none;
+  width: 100%;
+  text-align: center;
 }
 
 /* Responsive */
 @media (max-width: 1200px) {
   .gallery {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 20px;
   }
 }
 
 @media (max-width: 768px) {
   .gallery {
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 18px;
   }
 }
 
 @media (max-width: 600px) {
   .gallery {
     grid-template-columns: 1fr;
+    gap: 15px;
     padding: 10px;
   }
   
   body {
-    padding: 20px;
+    padding: 20px 10px;
   }
 }
 
@@ -105,7 +112,6 @@ body {
   color: #c9a46b;
 }
 
-/* Active link (opciono) */
 .title.active {
   color: #c9a46b;
   border-bottom: 3px solid #c9a46b;
