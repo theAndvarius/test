@@ -8,30 +8,32 @@ body {
   background: #000;
   color: #fff;
   font-family: Arial, sans-serif;
-  padding: 40px;
+  padding: 40px 0;
 }
 
 .title {
   text-align: center;
   font-size: 36px;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
-/* Masonry gallery */
+/* CSS Columns - bolje za različite proporcije */
 .gallery {
-  column-count: 3;
-  column-gap: 25px;
-  max-width: 1600px;
+  max-width: 1400px;
   margin: 0 auto;
+  column-count: 3;
+  column-gap: 30px;
+  padding: 0 40px;
 }
 
-/* Image wrapper */
 .img-wrap {
   position: relative;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
   break-inside: avoid;
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 .img-wrap img {
@@ -39,64 +41,57 @@ body {
   height: auto;
   display: block;
   border-radius: 10px;
-  pointer-events: none;
-  user-select: none;
-  -webkit-user-drag: none;
 }
 
 /* Watermark */
 .watermark {
   position: absolute;
-  bottom: 10px;   /* udaljenost od dna */
+  bottom: 12px;
   left: 50%;
   transform: translateX(-50%);
-
-  font-size: 48px;
+  font-size: 40px;
   font-weight: bold;
-  letter-spacing: 6px;
+  letter-spacing: 5px;
   text-transform: uppercase;
-
-  color: rgba(255,255,255,0.10);
-
+  color: rgba(255,255,255,0.13);
   pointer-events: none;
-
+  text-align: center;
+  width: 100%;
 }
 
-
-
-
 /* Responsive */
-@media (max-width: 1024px) {
+@media (max-width: 1100px) {
   .gallery {
     column-count: 2;
+    padding: 0 30px;
   }
 }
 
 @media (max-width: 600px) {
   .gallery {
     column-count: 1;
+    padding: 0 20px;
   }
 }
 
-
-
-
+/* Kategorije */
 .categories {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-    margin: 30px 0;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 30px 0 60px 0;
+  flex-wrap: wrap;
 }
 
 .title {
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-decoration: none;
-    color: white; /* ili boja koju koristiš */
-    cursor: pointer;
-    transition: color 0.3s;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  transition: color 0.3s;
 }
 
 .title:hover {
-    color: #c9a46b; /* boja pri prelasku mišem */
+  color: #c9a46b;
 }
